@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.heading {
+    margin: 200px 650px;
+}
+
+
+.heading h1 {
+    font-family: 'Rubik Maps', sans-serif;
+}
+
+
+.heading h1 span:nth-child(even) {
+    color: #f0071a;
+}
+
+.heading h1 span:nth-child(odd) {
+    color: #da289b;
+}
