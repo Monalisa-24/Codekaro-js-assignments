@@ -1,4 +1,4 @@
-# Codekaro-js-assignments
+# Codekaro-js-assignments Day-1
 "How to JavaScript" bootcamp : Codekaro
 
 # Output
